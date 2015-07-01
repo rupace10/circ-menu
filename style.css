@@ -38,6 +38,9 @@ body {
   transform: scale(1);
 }
 
+a, button {
+    outline: none;
+}
 .nav-btn{
 	border:none;
 	background:none;
