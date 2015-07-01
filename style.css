@@ -39,12 +39,12 @@ body {
 }
 
 a, button {
-    outline: none;
+  outline: none;
 }
 .nav-btn{
 	border:none;
 	background:none;
-	color: #f06060;
+	color: #7cbeb7;
 	text-align: center;
 	font-size: 1.8em;
 	padding-bottom: 1em;
@@ -62,7 +62,7 @@ a, button {
 .nav-btn:hover,
 .nav-btn:active,
 .nav-btn:focus{
-  color: #aa1010;
+  color: #7cbeb7;
 }
 
 .nav-overlay{
